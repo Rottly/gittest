@@ -4,5 +4,6 @@ body {
   background-color: aqua;
 }
 span {
-  color: red;
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
 }
